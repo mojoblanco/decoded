@@ -12,13 +12,13 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-})->name('welcome');
+    return view('home');
+})->name('home');
 
 Route::get('/form', function () {
     return view('form');
 })->name('form');
 
 Route::post('/submit', function () {
-    //
+    return view('success');
 })->name('submit');

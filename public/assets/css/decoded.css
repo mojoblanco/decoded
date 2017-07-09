@@ -1,0 +1,57 @@
+h1,h2,h3 {
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.img-inline {
+    display: inline;
+}
+
+.text-1 {
+    color: #800080;
+}
+
+.text-2 {
+    color: #EEE;
+}
+
+.text-3 {
+    color: #8B008B;
+}
+
+.text-4 {
+    color: #555;
+}
+
+.tagline {
+    font-size: 24px;
+}
+
+.btn.btn-alt {
+    background-color: #8B008B;
+    color: white;
+}
+
+.btn-submit {
+    padding: 17px 30px;
+    font-size: 12px;
+}
+
+#section-1 {
+    background-image: url('../assets/img/bgs/01.png');
+}
+
+#section-2 {
+    background-image: url('../assets/img/bgs/02.png');
+}
+
+#section-3 {
+    background-image: url('../assets/img/bgs/03.png');
+}
+
+#section-4 {
+    background-image: url('../assets/img/bgs/04.png');
+}
