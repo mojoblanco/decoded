@@ -15,9 +15,7 @@
     <body>
         <div class="wrapper">
             <nav class="navbar navbar-default" role="navigation">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Brand</a>
-                </div>
+                <a href="{{ route('welcome') }}" class="brand">Decoded</a>
             </nav>
 
             <div class="container-fluid">
