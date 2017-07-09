@@ -8,18 +8,22 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        <link href="https://fonts.googleapis.com/css?family=Bellefair" rel="stylesheet">
         <link rel="stylesheet" href="{{ asset('css/site.css') }}">
 
     </head>
     <body>
         <div class="wrapper">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Brand</a>
+                </div>
+            </nav>
+
             <div class="container-fluid">
                 @yield('content')
             </div>
         </div>
 
-        <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>

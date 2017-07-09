@@ -16,4 +16,5 @@ mix.js('resources/assets/js/app.js', 'public/js')
 
 mix.styles([
     'public/assets/css/styles.css',
+    'public/assets/css/superheroe.css',
 ], 'public/css/site.css');
