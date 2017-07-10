@@ -6,7 +6,8 @@
               <h2 class="text-4">Submit entry in minutes</h2>
 
               <p class="mb-40 text-1">
-                  Open an ALAT account with a single click Submit entry with ALAT account &amp; personal details
+                  Open an ALAT account with a single click
+                  <br>Submit entry with ALAT account &amp; personal details
               </p>
 
               <a href="https://online.alat.ng/" class="btn btn-md btn-icon btn-white btn-fill btn-alt">

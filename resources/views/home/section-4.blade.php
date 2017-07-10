@@ -3,7 +3,7 @@
           <div class="row">
             <div class="col-md-12 text-center">
               <h2 class="heading white text-4">
-                  Entry Closes on the 12th of August, 2015.
+                  Entry Closes on the 12th of August, 2017.
               </h2>
 
               <a href="{{ route('form') }}" class="btn btn-md btn-icon btn-white btn-fill btn-alt">

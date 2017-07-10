@@ -77,9 +77,9 @@
 
                 <div class="footer-socials">
                   <div class="social-icons dark rounded text-center">
-                    <a href="https://twitter.com/DeCODED"><i class="fa fa-twitter"></i></a>
-                    <a href="https://facebook.com/DeCODED"><i class="fa fa-facebook"></i></a>
-                    <a href="https://instagram.com/DeCODED"><i class="fa fa-instagram"></i></a>
+                    <a href="https://twitter.com/BeDECODED"><i class="fa fa-twitter"></i></a>
+                    <a href="https://facebook.com/BeDECODED"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/BeDECODED"><i class="fa fa-instagram"></i></a>
                   </div>
                 </div>
               </div>
