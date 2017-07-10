@@ -13,6 +13,15 @@
 			</div>
 
 			<div class="col-md-7 mt-mdm-50 text-center">
+				@if ($errors->any())
+					<div class="alert alert-warning">
+						<ul>
+							@foreach ($errors->all() as $error)
+								<li>{{ $error }}</li>
+							@endforeach
+						</ul>
+					</div>
+				@endif
                 <form method="post" action={{ route('submit') }}>
 	                <input type="hidden" name="_token" value="{!! csrf_token() !!}">
 
