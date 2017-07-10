@@ -20,3 +20,7 @@ Route::get('/form', function () {
 })->name('form');
 
 Route::post('/entry', 'EntryController@getEntry')->name('submit');
+
+Route::get('/success', function() {
+    return view('success');
+})->name('success');
