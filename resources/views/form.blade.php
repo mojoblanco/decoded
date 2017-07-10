@@ -34,11 +34,7 @@
 						</div>
 
 						<div class="col-md-6">
-							<input name="alat_no" id="alat_no" type="number" maxlength="10" placeholder="Account Number (Wema bank)*" required>
-						</div>
-
-						<div class="col-md-6">
-							<input name="bvn" id="bvn" type="number" maxlength="11" placeholder="BVN*" required>
+							<input name="alat_no" id="alat_no" type="number" placeholder="Account Number (ALAT)*" required>
 						</div>
 					</div>
 

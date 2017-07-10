@@ -9469,6 +9469,11 @@ p {
     color: #555;
 }
 
+.text-a {
+    color: #EEE;
+    font-weight: bold;
+}
+
 .tagline {
     font-size: 24px;
 }
@@ -9481,6 +9486,10 @@ p {
 .btn-submit {
     padding: 17px 30px;
     font-size: 12px;
+}
+
+.logo, .logo-dark {
+    max-height: 40px;
 }
 
 #section-1 {

@@ -38,10 +38,9 @@
                 <!-- Logo -->
                 <div class="logo-container">
                   <div class="logo-wrap">
-                    <a href="i{{ route('home') }}">
-                      {{-- <img class="logo" src="img/logo_light.png" alt="logo">
-                      <img class="logo-dark" src="img/logo_dark.png" alt="logo"> --}}
-                      Decoded
+                    <a href="i{{ route('home') }}"> 
+                      <img class="logo" src="{{ asset('assets/img/decoded-logo-white.png') }}" alt="logo">
+                      <img class="logo-dark" src="{{ asset('assets/img/decoded-logo.png') }}" alt="logo">
                     </a>
                   </div>
                 </div>
@@ -73,14 +72,14 @@
 
               <div class="col-md-4 col-md-offset-4">
                 <div class="footer-logo local-scroll text-center mb-50 wow zoomIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                  <img class="logo" src="img/logo_light.png" alt="logo">
+                  <img class="logo" src="{{ asset('assets/img/decoded-logo-white.png') }}" alt="logo">
                 </div>
 
                 <div class="footer-socials">
                   <div class="social-icons dark rounded text-center">
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="https://twitter.com/DeCODED"><i class="fa fa-twitter"></i></a>
+                    <a href="https://facebook.com/DeCODED"><i class="fa fa-facebook"></i></a>
+                    <a href="https://instagram.com/DeCODED"><i class="fa fa-instagram"></i></a>
                   </div>
                 </div>
               </div>
