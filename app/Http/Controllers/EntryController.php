@@ -15,6 +15,7 @@ class EntryController extends Controller
         // Send mail
         Mail::to('mojoblanco@gmail.com')
            ->send(new EntrySubmitted($rd));
-        dd($rd);
+
+        return redirect()->route('success');    
     }
 }
