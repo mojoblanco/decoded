@@ -16,7 +16,7 @@
             </div>
 
             <div class="col-md-7 text-center mt-mdm-60">
-              <img class="device-slide device-slide1 img-responsive img-inline" src="{{ asset('assets/img/app1.png') }}">
+              <img class="device-slide device-slide1 img-responsive img-inline" src="{{ asset('assets/img/lumia_app.png') }}">
             </div>
           </div>
         </div>
