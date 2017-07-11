@@ -16,7 +16,7 @@
                   <span>Get Started</span>
               </a>
               <a href="{{ route('form') }}" class="btn btn-md btn-icon btn-white btn-fill btn-lg">
-                  <span>Sumbmit Entry</span>
+                  <span>Submit Entry</span>
               </a>
 
             </div>

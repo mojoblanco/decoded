@@ -8,7 +8,7 @@
                   </p>
 
                   <a href="{{ route('form') }}" class="btn btn-md btn-icon btn-white btn-fill">
-                      <span>Sumbmit Entry</span>
+                      <span>Submit Entry</span>
                   </a>
               </div>
           </div>

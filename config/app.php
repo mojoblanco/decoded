@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    'reciever' => env('MAIL_TO', 'mojoblanco@gmail.com'),
     /*
     |--------------------------------------------------------------------------
     | Application Name

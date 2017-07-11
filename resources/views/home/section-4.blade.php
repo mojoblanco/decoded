@@ -7,7 +7,7 @@
               </h2>
 
               <a href="{{ route('form') }}" class="btn btn-md btn-icon btn-white btn-fill btn-alt">
-                  <span>Sumbmit Entry</span>
+                  <span>Submit Entry</span>
               </a>
 
             </div>
